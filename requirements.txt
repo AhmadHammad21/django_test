@@ -179,7 +179,6 @@ webencodings==0.5.1
 Werkzeug==2.1.2
 whitenoise==6.1.0
 widgetsnbextension==3.6.0
-windows-curses==2.3.0
 wrapt==1.14.1
 xgboost==1.6.1
 xmltodict==0.13.0
