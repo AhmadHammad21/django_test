@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-w+b9weq7^d80@@=-#5n3v+gb*vhddbl@tk+-s8%kf62cs!ny2s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['testmaindeploy.herokuapp.com']
 
 
 # Application definition
@@ -136,4 +136,3 @@ LOGOUT_REDIRECT_URL = "/"
 STATIC_ROOT=os.path.join(BASE_DIR, 'static')
 
 
-ALLOWED_HOSTS = ['dischtest.herokuapp.com']
