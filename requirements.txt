@@ -100,7 +100,6 @@ nbclient==0.6.4
 nbconvert==6.5.0
 nbformat==5.4.0
 nest-asyncio==1.5.5
-nltk==3.7
 notebook==6.4.12
 numpy==1.22.3
 oauthlib==3.2.0
@@ -157,8 +156,6 @@ stack-data==0.2.0
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.8.0
-tensorflow-io-gcs-filesystem==0.25.0
 termcolor==1.1.0
 terminado==0.15.0
 texttable==1.6.4
@@ -180,5 +177,4 @@ Werkzeug==2.1.2
 whitenoise==6.1.0
 widgetsnbextension==3.6.0
 wrapt==1.14.1
-xgboost==1.6.1
-xmltodict==0.13.0
+
